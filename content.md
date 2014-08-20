@@ -28,9 +28,9 @@ dagezi@{twitter, github, gmail.com}
 ## ユーザが求めているのは?
 
 - 素早い起動時間、反応 <!-- .element: class="fragment" data-fragment-index="1" -->
- - 赤信号でも使たい!
+ - スキマ時間に使いたい!
 - 低消費電力  <!-- .element: class="fragment" data-fragment-index="2" -->
-- 電波の届かないところはまだある  <!-- .element: class="fragment" data-fragment-index="3" -->
+- 電波がなくても使いたい  <!-- .element: class="fragment" data-fragment-index="3" -->
  - エレベーター、トンネル
 - 電磁波少なめで健康的 <!-- .element: class="fragment" data-fragment-index="4" -->
 
@@ -49,13 +49,26 @@ dagezi@{twitter, github, gmail.com}
 
 ## 実例:某 Quipper社
 
-- フィリピン、インドネシア等でオンライン教育サービス
-- 現状は Webアプリ
-- スマフォはそこそこ普及
-- だが、使い放題契約はすくない
-- offline学習アプリ開発中
- - 学校の WiFiとかでダウンロードしてもらう
+フィリピン、インドネシア等でオンライン教育サービス
 
+![QinPhilippine](QinPhilippine.jpg)
+
+
+
+## 現状は Webアプリ
+![QLearn](QLearn.png)
+
+
+
+## スマフォはそこそこ普及
+- だが、使い放題契約はすくない
+- PrepaidSIMによる従量課金
+
+
+
+## offline学習アプリ
+- 学校の WiFiとかでダウンロードしてもらう
+- えらそうにいいつつ、まだ開発中
 
 
 ## 技術要素
