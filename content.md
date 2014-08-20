@@ -4,9 +4,19 @@ dagezi@{twitter, github, gmail.com}
 
 
 
+## 自己紹介
+
+- Quipper で Androidやってます
+- 専用教育端末ガワアプリつくってた
+- まともなアプリ開発中!
+- CIとかちゃんと回せて楽しい!
+- Resistance やってます
+
+
 ## おわび
 
-補欠だと思って油断してたのでちゃんとネタ仕込んでませんでした。すみません。
+補欠だと思って油断してたのでちゃんとネタ仕込んでませんでした。
+そのせいであおり気味です。すみません。
 
 
 
@@ -74,11 +84,12 @@ dagezi@{twitter, github, gmail.com}
 ## 技術要素
 
 - データベースに溜め込む
-- [SyncAdapter](http://developer.android.com/training/sync-adapters/index.html)
+- [SyncAdapter](http://developer.android.com/training/sync-adapters/index.html) は使ってない
  - [mixiの Android Training内の解説](https://github.com/mixi-inc/AndroidTraining/wiki/2.15.-ContentProvider-%E3%81%AE%E7%99%BA%E5%B1%95#abstractthreadedsyncadapter)
 - ユーザに sync動作をさせる
- - offlineゆえの動作の制限はある
-
+ - ユースケースがまだよくわからないので
+ - 宿題配信失敗がわからないとやばい!
+ 
 
 
 ## 参考文献
